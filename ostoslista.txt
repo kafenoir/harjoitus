@@ -2,3 +2,4 @@ mustikkakeitto
 basmatiriisi
 kananmunat
 ruisleipä
+hernekeitto
